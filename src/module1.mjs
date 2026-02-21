@@ -1,5 +1,9 @@
-let b = "bilal";
-let a = "Ali";
+let a = "bilal";
+let b = "Ali";
 let c = "Ahmed";
 
-export default b;
+// export default b;
+// export { a };
+// export { c };
+
+export { a, b, c };
