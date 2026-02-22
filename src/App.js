@@ -5,8 +5,8 @@ import Navbar from "./components/Navbar";
 function App() {
   return (
     <>
-      {/* <Navbar title="React App" aboutText="About Us" /> */}
-      <Navbar />
+      <Navbar title="React App" aboutText="About Us" />
+      {/* <Navbar /> */}
     </>
   );
 }
