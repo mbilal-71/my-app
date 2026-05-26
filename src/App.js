@@ -7,6 +7,7 @@ function App() {
     <>
       <Navbar title="React App" aboutText="About Us" />
       {/* <Navbar /> */}
+      <Navbar />
     </>
   );
 }
