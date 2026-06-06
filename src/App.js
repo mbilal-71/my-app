@@ -6,7 +6,8 @@ function App() {
   return (
     <>
       <Navbar title="React App" aboutText="About Us" />
-      
+      <Navbar title="React App" aboutText="About Us" />
+
     </>
   );
 }
